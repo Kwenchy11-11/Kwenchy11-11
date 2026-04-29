@@ -4,15 +4,13 @@
 
 <br/>
 
-<img src="./assets/divider.png" width="45%" />
+# Hi there, I'm Kwenchy 🐱
 
-<br/>
+### A cat lover 💗 | Code • Coffee • Cats
 
-<h1>Hi, I'm Kwenchy 🐱</h1>
-
-<p>
-A cat lover 💗 | Code • Coffee • Cats
-</p>
+<img src="https://komarev.com/ghpvc/?username=Kwenchy11-11&label=Profile%20views&color=f4a7b9&style=flat" />
+<img src="https://img.shields.io/badge/Study-CMU-f4a7b9?style=flat&labelColor=2b2227" />
+<img src="https://img.shields.io/badge/Mood-Cat%20powered-ffb6c1?style=flat&labelColor=2b2227" />
 
 </div>
 
@@ -20,17 +18,60 @@ A cat lover 💗 | Code • Coffee • Cats
 
 ## 🐾 About Me
 
-<div align="center">
-<img src="./assets/cat-small.png" width="150"/>
-</div>
+- 🐱 Currently learning something new every day ✨
+- 🌸 Building things that make life a little cuter 🌸
+- 🎯 Goal: Become a full-stack developer 👩‍💻
 
-- 🎓 Studying at **Chiang Mai University**
-- 🌱 Currently learning **full-stack development**
-- 💻 Building cute, useful projects
-- 🐱 Cat-powered coding energy
+---
+
+## 🌷 Featured Projects
 
 <div align="center">
-<img src="./assets/divider.png" width="35%" />
+
+<table>
+<tr>
+<td width="50%">
+
+### <img src="./assets/cat-small.png" width="30"/> [GamebyMe](https://github.com/Kwenchy11-11/GamebyMe)
+
+Interactive games built with JavaScript
+
+🟡 JavaScript
+
+</td>
+<td width="50%">
+
+### <img src="./assets/cat-heart.png" width="30"/> [thaichess](https://github.com/Kwenchy11-11/thaichess)
+
+Forked from ChindanaiNaKubi/thaichess  
+makruk thai
+
+🔵 TypeScript
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="./assets/cat-laptop.png" width="30"/> [chess-video-editor](https://github.com/Kwenchy11-11/chess-video-editor)
+
+Chess video editor tools
+
+🔵 TypeScript
+
+</td>
+<td width="50%">
+
+### <img src="./assets/notebook.png" width="30"/> [weight-loss-fasting-app](https://github.com/Kwenchy11-11/weight-loss-fasting-app)
+
+Track fasting, water intake and weight
+
+🔵 TypeScript
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -39,57 +80,27 @@ A cat lover 💗 | Code • Coffee • Cats
 
 <div align="center">
 
-<img src="./assets/coffee.png" width="50"/>
-<img src="./assets/plant.png" width="50"/>
-<img src="./assets/notebook.png" width="50"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,git,github,vscode"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=141014" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=141014" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=141014" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=141014" />
+<img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=141014" />
 
 </div>
 
-<div align="center">
-<img src="./assets/divider.png" width="35%" />
-</div>
-
 ---
-
-## 🌷 Featured Projects
-
-### 🕹️ GamebyMe
-<img src="./assets/cat-laptop.png" width="100"/>
-
-Interactive games built with JavaScript  
-
----
-
-### ♟️ thaichess
-<img src="./assets/cat-heart.png" width="100"/>
-
-Makruk Thai chess project  
-
----
-
-### 🎬 chess-video-editor
-<img src="./assets/notebook.png" width="80"/>
-
----
-
-### 🌱 weight-loss-fasting-app
-<img src="./assets/coffee.png" width="80"/>
-
----
-
-<div align="center">
-<img src="./assets/divider.png" width="35%" />
-</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kwenchy11-11&show_icons=true&theme=dracula&hide_border=true&title_color=f4a7b9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kwenchy11-11&show_icons=true&theme=dracula&hide_border=true&bg_color=141014&title_color=f4a7b9&text_color=fbecef&icon_color=f4a7b9" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwenchy11-11&layout=compact&theme=dracula&hide_border=true&bg_color=141014&title_color=f4a7b9&text_color=fbecef" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kwenchy11-11&bg_color=141014&color=fbecef&line=f4a7b9&point=ffd1dc&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -97,9 +108,7 @@ Makruk Thai chess project
 
 <div align="center">
 
-<img src="./assets/cat-sleep.png" width="160"/>
-
-Thanks for visiting my profile 🐾  
+### 🐾 Thanks for visiting my profile  
 Have a purrfect day 💗
 
 </div>
