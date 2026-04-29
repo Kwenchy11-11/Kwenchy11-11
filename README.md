@@ -13,10 +13,17 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Kwenchy11-11&label=Profile%20views&color=f4a7b9&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kwenchy11-11&label=Stalkers&color=f4a7b9&style=flat" />
   <img src="https://img.shields.io/badge/Study-CMU-f4a7b9?style=flat&labelColor=2b2d3a" />
-  <img src="https://img.shields.io/badge/Mood-Cat%20powered-ffb6c1?style=flat&labelColor=2b2d3a" />
+  <img src="https://img.shields.io/badge/Mood-Chaotically+Cat-ffb6c1?style=flat&labelColor=2b2d3a" />
+  <img src="https://img.shields.io/badge/Bugs-It's+a+feature!-ff69b4?style=flat&labelColor=2b2d3a" />
 </p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F4A7B9&center=true&vCenter=true&width=450&lines=🎵+Currently+vibing+to%3A+Lo-fi+beats;🎵+Currently+vibing+to%3A+Cat+purring+ASMR;🎵+Currently+vibing+to%3A+The+sound+of+deadlines+whooshing+by" alt="Vibe Status" />
+
+</div>
 
 <img src="./assets/paw-divider.svg" width="100%" />
 
@@ -33,6 +40,14 @@
 - 🐱 Powered by cats, coffee, and curiosity
 - ✨ **Goal:** Do what makes my heart happy, one project at a time
 - 💭 Learning by building random things that spark joy
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=⚠️+WARNING%3A+This+person+is+currently+avoiding+responsibilities...;📊+Probability+of+actually+working%3A+12%25;☕+Fueled+by+caffeine+and+delusion;🎯+Current+mission%3A+Survive+until+weekend;💭+Thinking+about+code+instead+of+Econ+homework" alt="Roast Messages" />
+
+</div>
 
 <br clear="right"/>
 
@@ -169,5 +184,33 @@
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Do%20what%20makes%20your%20soul%20shine%20%E2%9C%A8&author=Kwenchy" alt="My Quote" />
+
+<br/>
+
+<details>
+<summary>🎁 <b>Click for a surprise</b> (if you dare)</summary>
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Congrats!+You+found+the+easter+egg+🥚;You+must+be+really+bored...;Or+just+really+into+cats+🐱;Either+way%2C+have+a+great+day!+%E2%9C%A8;Now+go+touch+some+grass+🌱" alt="Easter Egg" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Tears%20of%20Joy.png" alt="Laughing Cat" width="100" />
+
+</div>
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" />
+<b>If you're reading this, you're awesome!</b>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" />
+
+</div>
 
 </div>
