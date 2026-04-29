@@ -197,7 +197,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Tears%20of%20Joy.png" alt="Laughing Cat" width="100" />
+<h1>😹</h1>
 
 </div>
 
@@ -207,9 +207,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" />
-<b>If you're reading this, you're awesome!</b>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" />
+🔥 <b>If you're reading this, you're awesome!</b> 🔥
 
 </div>
 
