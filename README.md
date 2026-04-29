@@ -197,9 +197,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Congrats!+You+found+the+easter+egg+🥚;You+must+be+really+bored...;Or+just+really+into+cats+🐱;Either+way%2C+have+a+great+day!+%E2%9C%A8;Now+go+touch+some+grass+🌱" alt="Easter Egg" />
+### 🥚 Congrats! You found the easter egg!
 
-<br/>
+**You must be really bored...**  
+*Or just really into cats 🐱*
+
+Either way, have a great day! ✨  
+Now go touch some grass 🌱
 
 <h1>😹</h1>
 
