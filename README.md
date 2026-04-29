@@ -92,6 +92,38 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kwenchy11-11&theme=dracula&hide_border=true&area=true&color=f4a7b9&line=f4a7b9&point=ffffff" width="95%" />
 
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kwenchy11-11&theme=dracula&hide_border=true&stroke=f4a7b9&ring=f4a7b9&fire=ffb6c1&currStreakNum=f4a7b9&sideNums=f4a7b9&currStreakLabel=f4a7b9&sideLabels=f4a7b9" alt="GitHub Streak" />
+
+</div>
+
+<img src="./assets/paw-divider.svg" width="100%" />
+
+<h2>
+  <img src="https://img.shields.io/badge/🏆_GitHub_Trophies-f4a7b9?style=for-the-badge&logo=github&logoColor=white&labelColor=e75480" alt="GitHub Trophies" />
+</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kwenchy11-11&theme=dracula&no-frame=true&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+
+</div>
+
+<img src="./assets/paw-divider.svg" width="100%" />
+
+<h2>
+  <img src="https://img.shields.io/badge/🐍_Contribution_Snake-ffb6c1?style=for-the-badge&logo=github&logoColor=white&labelColor=f4a7b9" alt="Contribution Snake" />
+</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kwenchy11-11/Kwenchy11-11/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kwenchy11-11/Kwenchy11-11/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kwenchy11-11/Kwenchy11-11/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 <img src="./assets/paw-divider.svg" width="100%" />
@@ -109,5 +141,9 @@
   <b>Have a purrfect day</b>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="30" />
 </p>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Programmers%20are%20like%20cats%20-%20they%20love%20to%20chase%20bugs%20and%20nap%20in%20the%20sun.&author=Unknown%20Developer" alt="Random Quote" />
 
 </div>
