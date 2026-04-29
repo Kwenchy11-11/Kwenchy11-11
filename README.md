@@ -4,10 +4,12 @@
 
 <br/>
 
-<h1>Hi, I'm Kwenchy 🐱</h1>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F4A7B9&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kwenchy+%F0%9F%90%B1;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG" />
+</h1>
 
 <p>
-  <b>A cat lover 💗 | Code • Coffee • Cats</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F4A7B9&center=true&vCenter=true&width=350&lines=A+cat+lover+%F0%9F%92%97;Code+%E2%80%A2+Coffee+%E2%80%A2+Cats" alt="Tagline" />
 </p>
 
 <p>
@@ -20,7 +22,9 @@
 
 </div>
 
-## 🐾 About Me
+<h2>
+  <img src="https://img.shields.io/badge/🐾_About_Me-f4a7b9?style=for-the-badge&logo=github&logoColor=white&labelColor=e75480" alt="About Me" />
+</h2>
 
 <img align="right" src="./assets/cat-coding.svg" width="210" alt="coding cat" />
 
@@ -34,7 +38,9 @@
 
 <img src="./assets/paw-divider.svg" width="100%" />
 
-## 🧸 Tech Stack
+<h2>
+  <img src="https://img.shields.io/badge/🧸_Tech_Stack-ffb6c1?style=for-the-badge&logo=github&logoColor=white&labelColor=f4a7b9" alt="Tech Stack" />
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,git,github,vscode,html,css" />
@@ -49,7 +55,9 @@
 
 <img src="./assets/paw-divider.svg" width="100%" />
 
-## 🌷 Featured Projects
+<h2>
+  <img src="https://img.shields.io/badge/🌷_Featured_Projects-f4a7b9?style=for-the-badge&logo=github&logoColor=white&labelColor=e75480" alt="Featured Projects" />
+</h2>
 
 <div align="center">
 
@@ -71,7 +79,9 @@
 
 <img src="./assets/paw-divider.svg" width="100%" />
 
-## 📊 GitHub Stats
+<h2>
+  <img src="https://img.shields.io/badge/📊_GitHub_Stats-ffb6c1?style=for-the-badge&logo=github&logoColor=white&labelColor=e75480" alt="GitHub Stats" />
+</h2>
 
 <div align="center">
 
@@ -90,8 +100,14 @@
 
 <img src="./assets/sleepy-cat.svg" width="170" alt="sleepy cat" />
 
-<h3>Thanks for visiting my profile 🐾</h3>
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F4A7B9&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile+%F0%9F%90%BE;Hope+you+enjoy+your+stay!+%E2%9C%A8;See+you+again+soon+%F0%9F%90%B1" alt="Thanks message" />
+</h3>
 
-<p>Have a purrfect day 💗</p>
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="30" />
+  <b>Have a purrfect day</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="30" />
+</p>
 
 </div>
