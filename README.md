@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F4A7B9&center=true&vCenter=true&width=450&lines=🎵+Currently+vibing+to%3A+Lo-fi+beats;🎵+Currently+vibing+to%3A+Cat+purring+ASMR;🎵+Currently+vibing+to%3A+The+sound+of+deadlines+whooshing+by" alt="Vibe Status" />
+🎵 **Currently vibing to:** Lo-fi beats • Cat purring ASMR • The sound of deadlines whooshing by
 
 </div>
 
@@ -45,7 +45,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=⚠️+WARNING%3A+This+person+is+currently+avoiding+responsibilities...;📊+Probability+of+actually+working%3A+12%25;☕+Fueled+by+caffeine+and+delusion;🎯+Current+mission%3A+Survive+until+weekend;💭+Thinking+about+code+instead+of+Econ+homework" alt="Roast Messages" />
+> ⚠️ **WARNING:** This person is currently avoiding responsibilities...
+> 
+> 📊 Probability of actually working: 12% | ☕ Fueled by caffeine and delusion
+> 
+> 🎯 Current mission: Survive until weekend | 💭 Thinking about code instead of Econ homework
 
 </div>
 
