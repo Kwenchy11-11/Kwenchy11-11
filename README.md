@@ -1,102 +1,82 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
+<img src="./assets/banner.png" width="100%" alt="Kwenchy banner"/>
 
 <br/><br/>
 
-<img src="./assets/divider.png" width="70%" />
+<h1>Hi, I'm Kwenchy 🐱</h1>
+
+<p>
+  <b>A cat lover 💗 | Code • Coffee • Cats</b>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Kwenchy11-11&label=Profile%20views&color=f4a7b9&style=flat" />
+  <img src="https://img.shields.io/badge/Study-CMU-f4a7b9?style=flat&labelColor=2b2227" />
+  <img src="https://img.shields.io/badge/Mood-Cat%20powered-ffb6c1?style=flat&labelColor=2b2227" />
+</p>
 
 </div>
+
+---
 
 ## 🐾 About Me
 
-<div align="center">
-<img src="./assets/cat-small.png" width="180"/>
-</div>
-
 - 🎓 Studying at **Chiang Mai University**
 - 🌱 Currently learning **full-stack development**
-- 💻 Building cute, useful, human-friendly web projects
+- 💻 Building cute, useful, and human-friendly web projects
 - 🐱 Powered by cats, coffee, and small design details
 - ✨ Goal: build products people actually enjoy using
 
-<div align="center">
-<img src="./assets/divider.png" width="70%" />
-</div>
+---
 
 ## 🧸 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,git,github,vscode,html,css" />
+</p>
 
-<img src="./assets/coffee.png" width="60"/>
-<img src="./assets/plant.png" width="60"/>
-<img src="./assets/notebook.png" width="60"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-2b2227?style=for-the-badge&logo=typescript&logoColor=79c7ff" />
+  <img src="https://img.shields.io/badge/JavaScript-2b2227?style=for-the-badge&logo=javascript&logoColor=ffe66d" />
+  <img src="https://img.shields.io/badge/React-2b2227?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/GitHub-2b2227?style=for-the-badge&logo=github&logoColor=f4a7b9" />
+</p>
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,git,github,vscode,html,css"/>
-
-</div>
-
-<div align="center">
-<img src="./assets/divider.png" width="70%" />
-</div>
+---
 
 ## 🌷 Featured Projects
 
-### 🕹️ GamebyMe
-<img src="./assets/cat-laptop.png" width="120"/>
-
+### 🕹️ [GamebyMe](https://github.com/Kwenchy11-11/GamebyMe)
 Interactive games built with JavaScript  
-🟡 JavaScript
+`JavaScript`
 
----
-
-### ♟️ thaichess
-<img src="./assets/cat-heart.png" width="120"/>
-
+### ♟️ [thaichess](https://github.com/Kwenchy11-11/thaichess)
 Makruk Thai chess project  
-🔵 TypeScript
+`TypeScript`
 
----
-
-### 🎬 chess-video-editor
-<img src="./assets/notebook.png" width="100"/>
-
+### 🎬 [chess-video-editor](https://github.com/Kwenchy11-11/chess-video-editor)
 Chess video editor tools  
-🔵 TypeScript
+`TypeScript`
+
+### 🌱 [weight-loss-fasting-app](https://github.com/Kwenchy11-11/weight-loss-fasting-app)
+Track fasting, water intake, and weight  
+`TypeScript`
 
 ---
-
-### 🌱 weight-loss-fasting-app
-<img src="./assets/coffee.png" width="100"/>
-
-Track fasting, water intake, and weight  
-🔵 TypeScript
-
-<div align="center">
-<img src="./assets/divider.png" width="70%" />
-</div>
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kwenchy11-11&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f4a7b9&text_color=fbecef&icon_color=f4a7b9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwenchy11-11&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=f4a7b9&text_color=fbecef" />
+</p>
+
+---
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kwenchy11-11&show_icons=true&theme=dracula&hide_border=true&title_color=f4a7b9&icon_color=f4a7b9"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwenchy11-11&layout=compact&theme=dracula&hide_border=true&title_color=f4a7b9"/>
-
-</div>
-
-<div align="center">
-
-<img src="./assets/divider.png" width="70%" />
-
-<br/>
-
-<img src="./assets/cat-sleep.png" width="180"/>
-
-### Thanks for visiting my profile 🐾
+### Thanks for visiting my profile 🐾  
 Have a purrfect day 💗
 
 </div>
