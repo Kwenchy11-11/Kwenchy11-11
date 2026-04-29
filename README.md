@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
-
-<br/>
-
 # Hi there, I'm Kwenchy 🐱
 
 ### A cat lover 💗 | Code • Coffee • Cats
@@ -18,61 +14,11 @@
 
 ## 🐾 About Me
 
-- 🐱 Currently learning something new every day ✨
-- 🌸 Building things that make life a little cuter 🌸
-- 🎯 Goal: Become a full-stack developer 👩‍💻
-
----
-
-## 🌷 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### <img src="./assets/cat-small.png" width="30"/> [GamebyMe](https://github.com/Kwenchy11-11/GamebyMe)
-
-Interactive games built with JavaScript
-
-🟡 JavaScript
-
-</td>
-<td width="50%">
-
-### <img src="./assets/cat-heart.png" width="30"/> [thaichess](https://github.com/Kwenchy11-11/thaichess)
-
-Forked from ChindanaiNaKubi/thaichess  
-makruk thai
-
-🔵 TypeScript
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### <img src="./assets/cat-laptop.png" width="30"/> [chess-video-editor](https://github.com/Kwenchy11-11/chess-video-editor)
-
-Chess video editor tools
-
-🔵 TypeScript
-
-</td>
-<td width="50%">
-
-### <img src="./assets/notebook.png" width="30"/> [weight-loss-fasting-app](https://github.com/Kwenchy11-11/weight-loss-fasting-app)
-
-Track fasting, water intake and weight
-
-🔵 TypeScript
-
-</td>
-</tr>
-</table>
-
-</div>
+- 🎓 Studying at **Chiang Mai University**
+- 🌱 Currently learning **full-stack development**
+- 💻 Building cute, useful, human-friendly web projects
+- 🐱 Powered by cats, coffee, and small design details
+- ✨ Goal: build products people actually enjoy using
 
 ---
 
@@ -80,11 +26,39 @@ Track fasting, water intake and weight
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=141014" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=141014" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=141014" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=141014" />
-<img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=141014" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,git,github,vscode,html,css" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TypeScript-2b2227?style=for-the-badge&logo=typescript&logoColor=79c7ff" />
+<img src="https://img.shields.io/badge/JavaScript-2b2227?style=for-the-badge&logo=javascript&logoColor=ffe66d" />
+<img src="https://img.shields.io/badge/React-2b2227?style=for-the-badge&logo=react&logoColor=61dafb" />
+<img src="https://img.shields.io/badge/Node.js-2b2227?style=for-the-badge&logo=node.js&logoColor=8cc84b" />
+<img src="https://img.shields.io/badge/GitHub-2b2227?style=for-the-badge&logo=github&logoColor=f4a7b9" />
+
+</div>
+
+---
+
+## 🌷 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Kwenchy11-11/GamebyMe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kwenchy11-11&repo=GamebyMe&theme=dracula&hide_border=true&bg_color=141014&title_color=f4a7b9&text_color=fbecef&icon_color=f4a7b9" />
+</a>
+
+<a href="https://github.com/Kwenchy11-11/thaichess">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kwenchy11-11&repo=thaichess&theme=dracula&hide_border=true&bg_color=141014&title_color=f4a7b9&text_color=fbecef&icon_color=f4a7b9" />
+</a>
+
+<a href="https://github.com/Kwenchy11-11/chess-video-editor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kwenchy11-11&repo=chess-video-editor&theme=dracula&hide_border=true&bg_color=141014&title_color=f4a7b9&text_color=fbecef&icon_color=f4a7b9" />
+</a>
+
+<a href="https://github.com/Kwenchy11-11/weight-loss-fasting-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kwenchy11-11&repo=weight-loss-fasting-app&theme=dracula&hide_border=true&bg_color=141014&title_color=f4a7b9&text_color=fbecef&icon_color=f4a7b9" />
+</a>
 
 </div>
 
