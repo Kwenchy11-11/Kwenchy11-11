@@ -9,7 +9,7 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F4A7B9&center=true&vCenter=true&width=350&lines=A+cat+lover+%F0%9F%92%97;Code+%E2%80%A2+Coffee+%E2%80%A2+Cats" alt="Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=F4A7B9&center=true&vCenter=true&width=400&lines=Econ+Student+%F0%9F%93%8A+%7C+Vibe+Coder+%F0%9F%8E%A8;Following+my+heart+%E2%9C%A8+One+code+at+a+time" alt="Tagline" />
 </p>
 
 <p>
@@ -28,18 +28,18 @@
 
 <img align="right" src="./assets/cat-coding.svg" width="210" alt="coding cat" />
 
-- 🎓 Studying at **Chiang Mai University**
-- 🌱 Currently learning **full-stack development**
-- 💻 Building cute, useful, and human-friendly web projects
-- 🐱 Powered by cats, coffee, and small design details
-- ✨ Goal: become a developer who can build products people actually enjoy using
+- 🎓 **Economics student** at Chiang Mai University
+- 🎨 **Vibe coder** — coding for fun, not for a living (yet 😺)
+- 🐱 Powered by cats, coffee, and curiosity
+- ✨ **Goal:** Do what makes my heart happy, one project at a time
+- 💭 Learning by building random things that spark joy
 
 <br clear="right"/>
 
 <img src="./assets/paw-divider.svg" width="100%" />
 
 <h2>
-  <img src="https://img.shields.io/badge/🧸_Tech_Stack-ffb6c1?style=for-the-badge&logo=github&logoColor=white&labelColor=f4a7b9" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/🧸_My_Toys-ffb6c1?style=for-the-badge&logo=github&logoColor=white&labelColor=f4a7b9" alt="My Toys" />
 </h2>
 
 <p align="center">
@@ -113,6 +113,30 @@
 <img src="./assets/paw-divider.svg" width="100%" />
 
 <h2>
+  <img src="https://img.shields.io/badge/🎲_3D_Contribution_Graph-ffb6c1?style=for-the-badge&logo=github&logoColor=white&labelColor=f4a7b9" alt="3D Contribution Graph" />
+</h2>
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
+
+</div>
+
+<img src="./assets/paw-divider.svg" width="100%" />
+
+<h2>
+  <img src="https://img.shields.io/badge/😂_Dev_Joke_of_the_Day-f4a7b9?style=for-the-badge&logo=github&logoColor=white&labelColor=e75480" alt="Dev Jokes" />
+</h2>
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&borderColor=f4a7b9)
+
+</div>
+
+<img src="./assets/paw-divider.svg" width="100%" />
+
+<h2>
   <img src="https://img.shields.io/badge/🐍_Contribution_Snake-ffb6c1?style=for-the-badge&logo=github&logoColor=white&labelColor=f4a7b9" alt="Contribution Snake" />
 </h2>
 
@@ -144,6 +168,6 @@
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Programmers%20are%20like%20cats%20-%20they%20love%20to%20chase%20bugs%20and%20nap%20in%20the%20sun.&author=Unknown%20Developer" alt="Random Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Do%20what%20makes%20your%20soul%20shine%20%E2%9C%A8&author=Kwenchy" alt="My Quote" />
 
 </div>
